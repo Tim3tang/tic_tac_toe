@@ -43,22 +43,22 @@ Turn | move() | action
 ## Installation
 
 Check you have python3 installed in your command line:
-```$ python --version
-```
-Fork this repo or ```git clone``` this repo on your local machine.
+``` $ python --version ```
+
+Fork this repo or ``` git clone ``` this repo on your local machine.
 
 Play the game in command line:
-```
-$ python3 tic_tac_toe.py
-```
+
+``` $ python3 tic_tac_toe.py ```
+
 Run the tests with pytest 3.0.3 in command line:
-```
-$ pytest test_tic_tac_toe.py
-```
+
+``` $ pytest test_tic_tac_toe.py ```
+
 - Check pytest version:
-```
-$ pytest --version
-```
+
+``` $ pytest --version ```
+
 ## Resources
 
 - Official Python docs https://docs.python.org/3/
